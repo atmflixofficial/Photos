@@ -1,0 +1,13 @@
+
+    <div id="output" class="gallery"><div class="gallery-sizer"></div><div class="gallery-item"><img src="https://istorage.b-cdn.net/Libraries/Photos/XXX/Fakes/Actress/Vidya balan/zecyj8hsi7y9d0v15mx.jpg"/></div></div>
+<div class="load-more-btn">
+    <button id="load-more-btn" type="button" onclick='process_gallery(offset,output)' class="btn btn-primary">Load More</button>
+</div>
+    <script type="text/javascript">
+      var files = {
+        'url'       : 'https://istorage.b-cdn.net/',
+        'dir'       : 'Libraries/Photos/XXX/Fakes/Actress/Vidya balan/',
+        'thumb_dir' : 'Libraries/Photos/XXX/Fakes/Actress/Vidya balan/',
+        'name'      : []
+      };
+    </script>
