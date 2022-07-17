@@ -3,3 +3,5 @@
 07 (3).jpg
 10 (1).jpg
 10 (2).jpg
+list.txt
+MakeFileList.bat

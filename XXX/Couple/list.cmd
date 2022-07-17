@@ -1,1 +1,0 @@
-dir /N /b /a-d | sort > list.txt

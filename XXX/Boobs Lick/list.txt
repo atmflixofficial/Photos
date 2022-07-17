@@ -1,2 +1,4 @@
 61708282_005_290d.jpg
 627564_08big.jpg
+list.txt
+MakeFileList.bat

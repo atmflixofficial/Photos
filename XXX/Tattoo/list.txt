@@ -21,3 +21,5 @@
 98268948_115_6102.jpg
 98418889_035_fb0d.jpg
 986291397.jpg
+list.txt
+MakeFileList.bat

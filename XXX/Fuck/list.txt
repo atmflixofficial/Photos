@@ -6,3 +6,5 @@
 80817889_006_9486.jpg
 80817889_016_1df6.jpg
 87963350_012_5630.jpg
+list.txt
+MakeFileList.bat
